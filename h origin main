@@ -1,0 +1,17 @@
+[33mcommit 5be6f44f4390de8ddcd2589275eb7d36b1b8e6e9[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Tommyg26 <thomasgershanik26@newmanschool.org>
+Date:   Fri Oct 3 23:37:13 2025 -0500
+
+    Add Nurofrontend into Nuro repo
+
+[33mcommit d5d4b35edf729ef29d1e87a3416b4607f4d87ffd[m
+Author: Tommyg26 <thomasgershanik26@newmanschool.org>
+Date:   Fri Oct 3 23:37:04 2025 -0500
+
+    Remove empty frontend folder
+
+[33mcommit d51e6671994ea21b10d146b9ad8620d0c85b55d1[m
+Author: Tommyg26 <thomasgershanik26@newmanschool.org>
+Date:   Fri Oct 3 23:33:31 2025 -0500
+
+    Add nuroFrontend into Nuro repo
